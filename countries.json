@@ -1,0 +1,62 @@
+[
+  {
+    "name":"Brasil",
+    "code":"BRA",
+    "fronteiras":["ARG", "BOL", "COL", "GUF", "GUY", "PRY", "PER", "SUR", "URY", "VEN"]
+  },
+  {
+    "name":"Colombia",
+    "code":"COL",
+    "fronteiras":["BRA", "ECU", "PAN", "PER", "VEN"]
+  },
+  {
+    "name":"Ecuador",
+    "code":"ECU",
+    "fronteiras":["COL", "PER"]
+  },
+  {
+    "name":"Panamá",
+    "code":"PAN",
+    "fronteiras":["COL"]
+  },
+  {
+    "name":"Peru",
+    "code":"PER",
+    "fronteiras":["BOL"," BRA"," CHL"," COL"," ECU"]
+  },
+  {
+    "name":"Argentina",
+    "code":"ARG",
+    "fronteiras":["BOL"," BRA"," CHL"," PRY"," URY"]
+  },
+  {
+    "name":"Bolívia",
+    "code":"BOL",
+    "fronteiras":["ARG"," BRA"," CHL"," PRY"," PER"]
+  },
+  {
+    "name":"Guiana Francesa",
+    "code":"GUF",
+    "fronteiras":["BRA"," SUR"," VEN"]
+  },
+  {
+    "name":"Paraguai",
+    "code":"PRY",
+    "fronteiras":["ARG", "BOL", "BRA"]
+  },
+  {
+    "name":"Suriname",
+    "code":"SUR",
+    "fronteiras":["BRA"," GUF"," GUY"]
+  },
+  {
+    "name":"Uruguay",
+    "code":"URU",
+    "fronteiras":["ARG", "BRA"]
+  },
+  {
+    "name":"Chile",
+    "code":"CHL",
+    "fronteiras":["ARG", "BOL", "PER"]
+  }
+]
